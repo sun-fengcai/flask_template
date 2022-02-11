@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--config",
+        "pyproject.toml"
+    ],
+    "python.pythonPath": "/Users/maypatha/.local/share/virtualenvs/Flask-REST-Container-21aZLsr_/bin/python"
+}

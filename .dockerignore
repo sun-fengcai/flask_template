@@ -1,0 +1,8 @@
+.dependabot/
+.github/
+.pytest_cache/
+.vscode/
+
+.dockerignore
+Dockerfile
+README.md
